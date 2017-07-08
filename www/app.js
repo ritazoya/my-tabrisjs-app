@@ -1,5 +1,3 @@
-
-<pre lang="javascript">
 var page = tabris.create("Page", {
   title: "Hello, World!",
   topLevel: true
@@ -12,5 +10,5 @@ var textView = tabris.create("TextView", {
 }).appendTo(page);
 
 page.open();
-</pre>
+
 
