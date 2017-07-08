@@ -1,4 +1,3 @@
-<pre lang="xml">
 <?xml version='1.0' encoding='utf-8'?>
 <widget
     id="my.first.app"
@@ -16,4 +15,4 @@
     <access origin="*" />
     <preference name="EnableDeveloperConsole" value="true"/>
 </widget>
-</pre>
+
